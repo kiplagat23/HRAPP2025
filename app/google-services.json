@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031925532455",
+    "project_id": "hrapp-v1-8c934",
+    "storage_bucket": "hrapp-v1-8c934.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031925532455:android:e53bec118e673d7ecc8b02",
+        "android_client_info": {
+          "package_name": "com.example.hrappv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5snzOr6dVzIH7Su0bba9JClQX-cjHq34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
